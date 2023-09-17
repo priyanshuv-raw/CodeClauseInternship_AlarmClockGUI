@@ -15,17 +15,17 @@ I'm excited to share my second project, the "**Alarm Clock**," **powered by Java
 
 **How to Use it:**
 
-Open the project on my GitHub profile: GitHub URL.<br>
+Open the project on my GitHub profile:<br>
 Clone or download the project to your local machine.<br>
-  ' Open **index.html** using any browser '<br>
+  - Open **index.html** using any browser <br>
 
 _**This is the web version of Alarm Clock**_ <br>
 ![01 Desktop View](https://github.com/priyanshuv-raw/CodeClauseInternship_AlarmClockGUI/assets/102889190/c2e29723-aa37-46e9-a1d0-496b2e4ea300)
 <br>
 
 **Follow the video to use URLShortner**<br>
-**Drive** - 
-**LinkedIn** - 
+**Drive** - https://drive.google.com/file/d/13YG9FHAl_EqompOoi0KnXmdAN8LqwyVz/view?usp=sharing
+**LinkedIn** - https://www.linkedin.com/posts/priyanshu-vraw_codeclause-pythondeveloper-webdevelopment-activity-7109177751990939648-7Hpx?utm_source=share&utm_medium=member_desktop
 
 _**This is the tablet version of Alarm Clock**_
 ![02 Tablet View](https://github.com/priyanshuv-raw/CodeClauseInternship_AlarmClockGUI/assets/102889190/4c239e4c-e865-4048-9f20-59f551e699be)
