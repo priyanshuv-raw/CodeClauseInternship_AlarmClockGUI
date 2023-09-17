@@ -1,24 +1,24 @@
-class Clock{
-    constructor(timeDiv,alarmDiv) {
-        this.timeDiv = timeDiv
-        this.alarmDiv = alarmDiv
-        let tim = document.querySelector(this.timeDiv)
-        let t = new Date()
-        let time = t.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' })
-        tim.innerHTML = time
+// class Clock{
+//     constructor(timeDiv,alarmDiv) {
+//         this.timeDiv = timeDiv
+//         this.alarmDiv = alarmDiv
+//         let tim = document.querySelector(this.timeDiv)
+//         let t = new Date()
+//         let time = t.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' })
+//         tim.innerHTML = time
 
-        setInterval(this.updateTime.bind(this), 1000)
-    }
+//         setInterval(this.updateTime.bind(this), 1000)
+//     }
 
-    updateTime() {
-        let tim = document.querySelector(this.timeDiv)
-        let t = new Date()
-        let time = t.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' })
-        tim.innerHTML = time
-    }
+//     updateTime() {
+//         let tim = document.querySelector(this.timeDiv)
+//         let t = new Date()
+//         let time = t.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' })
+//         tim.innerHTML = time
+//     }
 
-}
- new Clock('#time')
+// }
+//  new Clock('#time')
 
 
 AlarmRinging = false;
@@ -37,8 +37,10 @@ setInterval(() => {
     
     h = h < 10 ? "0" + h : h;
     m = m < 10 ? "0" + m : m;
-    s = s < 10 ? "0" + s : s;  
+    s = s < 10 ? "0" + s : s;
     currentTime = h + ":" + m + ":" + s;
+    let z = document.querySelector("#time")
+    z.innerHTML = currentTime
     if (currentTime == alarmTime)
     {
         console.log("alarm went off");
