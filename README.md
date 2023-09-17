@@ -1,5 +1,8 @@
 # CodeClauseInternship_AlarmClockGUI
 This is the repo having all the details about the second project of my internship at CodeClause<br>
+<br>
+Click here to check it live:
+https://priyanshuv-raw.github.io/CodeClauseInternship_AlarmClockGUI/
 
 _**This is the web version of Alarm Clock**_ <br>
 ![01 Desktop View](https://github.com/priyanshuv-raw/CodeClauseInternship_AlarmClockGUI/assets/102889190/c2e29723-aa37-46e9-a1d0-496b2e4ea300)
