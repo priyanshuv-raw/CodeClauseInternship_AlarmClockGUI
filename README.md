@@ -5,7 +5,7 @@ This is the repo having all the details about the second project of my internshi
 
 🌐 **Introducing the Alarm Clock with GUI** 🚀
 
-I'm excited to share my second project, the "**Alarm Clock**," **powered by JavaScript, HTML, CSS**, and hosted on **GitHub** and **GitHub Pages**. This project is designed to simplify your web experience by bringing **alarm clock over web**.
+I'm excited to share my second project, the "**Alarm Clock**," **powered by JavaScript, HTML, CSS**, and hosted on **GitHub Pages**. This project is designed to simplify your web experience by bringing **alarm clock over web**.
 
 **Tech Stack Used:**
 
