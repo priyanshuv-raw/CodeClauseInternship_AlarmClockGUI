@@ -16,7 +16,7 @@ I'm excited to share my second project, the "**Alarm Clock**," **powered by Java
 **How to Use it:**
 
 Open the project on my GitHub profile:<br>
-Clone or download the project to your local machine.<br>
+Clone or download the project to your local machine.
   - Open **index.html** using any browser <br>
 
 _**This is the web version of Alarm Clock**_ <br>
